@@ -1,0 +1,11 @@
+{
+  "name": "harison-claude-toolkit",
+  "owner": { "name": "Harison Clark" },
+  "plugins": [
+    {
+      "name": "harison",
+      "source": "./",
+      "description": "Personal shortcut commands: today, apply, prep and followup."
+    }
+  ]
+}
